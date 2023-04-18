@@ -7,7 +7,8 @@
     "nodemon": "^2.0.22"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "dev_start": "nodemon server.js"
   },
   "name": "wk-1",
   "version": "1.0.0",
