@@ -2,3 +2,6 @@ GET https://week-1-9dug.onrender.com/test
 
 ###
 GET https://week-1-9dug.onrender.com
+
+###
+Get http://localhost:3000
